@@ -7,9 +7,5 @@
 
 
 # Main
-
+echo I am working perfectly
 # End
-
-function loginhistory(){
-    
-}
